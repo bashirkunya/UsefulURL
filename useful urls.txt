@@ -1,0 +1,257 @@
+0.https://hamariweb.com/islam/Quran.aspx------------------------Quran Online with Tafser
+1.https://blogs.windows.com/buildingapps/2018/11/20/getting-started-with-windows-machine-learning/----Machine Learning(ML) c# Videos
+2.http://www.compileonline.com/compile_csharp_online.php-online compiler
+3.http://www.codeproject.com/Articles/486161/Creating-a-simple-application-using-MVC-4-0-best mvc example
+4.http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b-LINQ examples
+5.http://www.bipinjoshi.net/keywords/MVC.aspx------mvc tutorials
+6.http://www.mssqltips.com/sqlservertutorial-------stored procedures
+7.http://books.google.co.ke/books?id=Fb-ae1LyKAEC&pg=PT665&lpg=PT665&dq=[OutputCache%28Duration+%3D+999999%29]&source=bl&ots=Wc63AGESCp&sig=trxbprMj-Lp6V4FUUqBsBqdwe2A&hl=sw&sa=X&ei=h6iVUuLTLOOGywPm_4GwAw&ved=0CCwQ6AEwAA#v=onepage&q=[OutputCache%28Duration%20%3D%20999999%29]&f=false
+8.http://www.codeproject.com/Articles/570682/PDF-File-Writer-Csharp-Class-Library----creating .pdf in c#
+9.http://api.jquery.com/Ajax_Events/----------------JQuery&Ajax
+10.http://msdn.microsoft.com/en-us/library/dxf9k8sh%28v=vs.85%29.aspx----------------aspx references
+11.http://technet.microsoft.com/en-us/library/ms187569%28v=sql.105%29.aspx----------------------------------------ad hoc distributed queries
+12.https://codinginfinite.com/top-10-asp-net-core-features-need-know/---------------------------------------------Top 10 asp.net Core Features
+13.https://schneids.net/essential-dotnet-csharp-vbnet-web-dev-tools-and-frameworks/-------------------------------Top Dev Tools
+16.http://demos.devexpress.com/XtraReportsDemos/ReportControls/XRPivotGrid.aspx---------reporting
+17.http://bootswatch.com.......................................................bootstrap themes
+18.https://www.youtube.com/watch?v=bGqS0f4Utn4--------------------------------How JetKins Works.
+19.https://www.w3schools.com/icons/default.asp.............................................Icons References
+20.http://keymanweb.com/#arb,Keyboard_arabic_101...............................Arabic Keyboard
+21.http://www.windows-commandline.com/.........................................windows cmd
+22.http://www.4guysfromrolla.com/articles/053102-1.aspx........................appSettings
+23.http://aspnet.4guysfromrolla.com/articles/072606-1.aspx.....................sending mail
+24.http://aspsnippets.com/Articles/Encrypt-and-Decrypt-Word-Excel-PDF-Text-or-Image-Files-using-C-and-VBNet-in-ASPNet.aspx--------encryption
+25.http://www.codeproject.com/Articles/25600/Triggers-SQL-Server...............Triggerz
+26.http://www.mssqltips.com/sqlservertip/1202/export-data-from-sql-server-to-excel/.......data from sql server to excel
+27.http://csharp.net-informations.com......................................................c-sharp and excel
+28 http://www.c-sharpcorner.com/UploadFile/naresh.avari/develop-and-install-a-windows-service-in-C-Sharp/..............................windows service tutorials
+29.http://stackoverflow.com/questions/6297071/stopping-a-windows-service-when-the-stop-option-is-grayed-out............................killing windows service
+30.http://www.dotnet-tricks.com/Tutorial/sqlserver/IT5G180512-SQL-Server-Cursor-Alternatives.html.................sql server cursor alternative
+31.http://www.infoworld.com/article/2604472/database/10-more-dos-and-donts-for-faster-sql-queries.html.............sql server dos and donts
+32.http://www.color-hex.com/........................all web colors
+33.http://designscrazed.org/css-html-login-form-templates/--------nice logins
+34.http://www.asp.net/web-forms/overview/older-versions-getting-started/master-pages/creating-a-site-wide-layout-using-master-pages-cs.......master page
+35.http://mvolo.com/troubleshoot-iis7-errors-like-a-pro/.........troubleshoot iis like a pro
+36.https://developer.android.com/training/index.html.............Android Tutorials
+37.http://www.geeksengine.com/article/create-dll.html...making a dynamic link library
+38.http://www.c-sharpcorner.com/UploadFile/26b237/crystal-reports-in-C-Sharp/.........crystal report for beginners
+39.https://www.youtube.com/watch?v=Doo7QHpOVZ4..............................how to partition c without losing data
+40.http://www.w3schools.com/bootstrap/bootstrap_templates.asp
+41.http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp
+42.http://www.mytecbits.com/microsoft/dot-net/bootstrap-3-0-0-with-asp-net-web-forms
+43.http://marcoceppi.github.io/bootstrap-glyphicons/
+44.http://glyphicons.com/
+45.https://github.com/tiepologian/node-stickynotes/blob/master/views/admin.ejs
+45.http://callmenick.com/post/css-toggle-switch-examples--------toggle examples
+46.http://www.howacarworks.com/-----------------how cars work
+47.http://docs.telerik.com/devtools/aspnet-ajax/controls/menu/overview----telerik control entry
+48.http://docs.telerik.com/devtools/aspnet-ajax/controls/menu/radmenu-items/working-with-items-at-server-side---dynamic controls
+49.http://docs.asp.net/en/latest/client-side/bootstrap.html---------bootsrap and asp.net
+50.http://ryanfarley.com/blog/archive/2006/03/25/18992.aspx----dynamic controls
+51.http://www.3g-modem-wiki.com/page/common+AT-commands-------AT commands
+52.http://www.tenforums.com/tutorials/7394-switch-user-windows-10-a.html--win 10 switch user command
+53.http://www.pcadvisor.co.uk/how-to/windows/how-fix-start-menu-in-windows-10-3623893/-----win 10 command to enable start and Cortana
+54.http://www.codeproject.com/Articles/359654/important-database-designing-rules-which-I-fo----fast rules for db design
+55.https://www.smashingmagazine.com/2011/06/useful-ideas-and-guidelines-for-good-web-form-design/..art and design of websites
+56.http://www.getelastic.com/form-design-11-patterns-for-accepting-user-input/-------Another web art and design
+57.http://www.noupe.com/essentials/freebies-tools-templates/100-great-css-menu-tutorials.html-----css menu art and design
+58.http://www.vandelaydesign.com/website-layout-photoshop-tutorials/---web designs
+59.http://www.techonthenet.com/sql_server/foreign_keys/foreign_keys.php........sql server tutorials
+60.https://www.help.barclays.co.uk/faq/cards/debit-card/difference-debit-credit.html........nice site look and feel
+61.https://msdn.microsoft.com/en-us/library/900fyy8e.aspx----usage of delegates and annonymous methods
+62.http://weblog.west-wind.com/posts/2011/Apr/11/Rounded-Corners-and-Shadows-Dialogs-with-CSS-----css round corners
+63.http://www.programgood.net/CategoryView,category,Telerik.aspx---------------------program good
+64.http://webcloud.se/jQuery-Collapse/.........................................collapsable menus
+65.http://www.codeproject.com/Articles/166291/Generate-a-report-using-Crystal-Reports-in-Visual---------------------crystal reports with web app
+66.http://www.aspdotnet-suresh.com/2014/12/wcf-tutorial-for-beginners-with-example-in-aspnet-step-by-step.html--------Windows Communication Foundation(WCF) bigginers guide
+67.http://www.codeproject.com/Articles/1073184/How-to-import-data-into-MS-SQL-server-from-CSV-and--------------------bulk import to ms sql server
+68.http://www.codeproject.com/Articles/1060867/DBA-Skills-for-developers------------------------DBA Skills for DEV
+69.https://msdn.microsoft.com/en-gb/library/ms175976.aspx-------best sql catch statement
+70.https://www.google.com/search?q=system+dashboards&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwivx5jUwL3KAhVBvBoKHR97CIcQsAQILg&biw=1366&bih=667#imgrc=aYyOHx2WSWSyYM%3A-----Payroll Dashbord
+71.https://www.peoplehr.com/essentials.html----------------------------------hr system example design
+72.http://cssmenumaker.com/blog/wordpress-accordion-menu-tutorial------------------------menu styles
+73.http://cssmenumaker.com/menu/responsive-flat-menu------------menu styles
+74.http://cssmenumaker.com/--------------------------all menus
+75.https://www.visualstudio.com/en-us/features/wpf-vs.aspx------wpf app debuging
+76.http://www.codeproject.com/Tips/672433/Real-time-Notifications-with-SignalR-------simple signalR example
+77.http://www.c-sharpcorner.com/blogs/jquery-full-calender2-----------------jquery calender
+78.http://www.c-sharpcorner.com/blogs/use-log4net-in-c-sharp-console-application-------------intro to log4net example
+79.http://www.diogonunes.com/blog/calling-a-web-method-in-c-without-a-service-reference/-----calling webservice without wsdl or reference
+80.http://csharphelper.com/blog/2014/11/read-a-csv-file-into-an-array-in-c/----------simplest way to read csv
+81.http://code.tutsplus.com/articles/20-javascript-frameworks-worth-checking-out--net-22020-----------js frameworks
+82.https://msdn.microsoft.com/en-us/magazine/dn802609.aspx---------SignalR new kid on the block
+83.http://www.codeproject.com/Articles/1076849/Decrypt-SQL-Server-Objects-----encrypt/decrypt MSS DB
+84.http://www.gannz.com/poetry/HenryBarlowBuildingthenation.pdf-----today I contributed in nation building
+85.http://www.codeproject.com/Articles/1076213/Sending-Data-to-Another-Domain-using-postMessage
+86.http://www.codeproject.com/Tips/1076400/Twitter-API-for-beginners
+87https://mail.google.com/mail/u/0/#inbox/152e62cb5755a7ab--------passord enc using salt
+88.http://www.sitepoint.com/twenty-top-advanced-css-tutorials/
+89.http://www.mytecbits.com/microsoft/dot-net/bootstrap-3-with-asp-net-mvc-5-------------------------mvc and bootstrap
+90.https://facebook.github.io/react/docs/getting-started.html-------------------------React Tutorials
+91.http://net-informations.com/faq/asp/ispostback.htm------------------------asp.net qas
+92.http://www.dummies.com/how-to/content/how-to-share-folders-and-files-in-a-windows-7-netw.pageCd-storyboard,pageNum-5.html#slideshow---toroka uje
+93.http://www.techrepublic.com/blog/data-center/how-to-share-a-folder-in-windows-server-2012/----sharing in windows server
+94.http://www.codeproject.com/Articles/1080698/How-To-Show-Currently-Online-Users-Members-Using-A-------online users MVC
+95.http://www.codeproject.com/Articles/1079783/Web-Page-as-a-Set-of-Components-Part-------web UI design pattern
+96.http://www.codeproject.com/Articles/1081122/Programmatically-Extract-or-Unzip-Zip-Rar-Files-An--Programmatically Extract or Unzip Zip, Rar Files And Check
+97.http://www.codeproject.com/Articles/1010023/Must-Know-Visual-Studio-Keyboard-Shortcuts-Part-------visual studio short cuts1
+98.http://www.codeproject.com/Articles/1010022/Must-Know-Visual-Studio-Keyboard-Shortcuts-Part-------visual studio short cuts2
+99.http://www.codeproject.com/Articles/1088570/Angular-Single-Page-Applications-Cool-Privilege-Co------------design UI using Angular JS
+100.http://www.codeproject.com/Articles/486290/Load-Test-Using-Visual-Studio-2010---------------------------load test
+101.http://www.codeproject.com/Tips/1098194/Generating-a-New-SessionID-on-Login-in-ASP-NET-------------------create sessionid in asp.net
+102.http://www.codeproject.com/Tips/1098494/Simple-Paging-in-MVC------simple paging in mvc
+103.http://www.codeproject.com/KB/scripting/---------------------javascripting client side
+104.http://www.codeproject.com/Articles/993297/Angular-Tutorial-Part-Introduction-to-Angular-js-----------Angular JS Intro
+105.http://www.codeproject.com/Tips/1096544/Get-First-N-Digits-of-a-Number-----------get the first N digits of a number without converting to string
+106.https://mail.google.com/mail/u/0/#inbox/154bfbdfd4b1007a----------------------------------A host of technology from codeproject
+106.http://www.codeproject.com/Articles/1095324/Preventing-SQL-Injection-attack-ASP-NET-PART-I-----------preventing sql injection
+107.http://www.codeproject.com/Articles/1100502/A-Beginners-Guide-to-WebGL------------------------------WEBGL
+108.https://www.sitepoint.com/build-real-time-signalr-dashboard-angularjs/------------------------------Technologies to use for dynamic front end(d3,epoch,angular,ng-epoch,signalR,jquery....)
+110.http://sqlservernet.blogspot.co.ke/2012/01/lambda-expression-in-c.html------------------------------complete guide to lambda expressions,delegates and anonnymous methods
+111.http://www.asp.net/mvc/overview/getting-started/recommended-resources-for-mvc-------------------------MVC links
+112.https://www.google.com/search?q=login+pages+bootstrap&espv=2&biw=1366&bih=623&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiWhb6JrJPNAhWJ8RQKHdTbDuUQsAQIJg----------login Images
+113.https://www.google.com/fonts---------------------------google font/font awesome
+114.http://www.codeproject.com/Articles/1106481/How-to-Update-Your-Website-with-CSS-JS-UnSplash-Fo-------------------------------sample project using google fonts/font awesome
+115.http://webproject.scottgu.com/CSharp/MasterPages/MasterPages.aspx-------------------------------master page creation
+116.http://www.aspdotnet-suresh.com/2014/07/master-page-with-menu-control-in-aspnet-example.html------------------master page with simple menus
+117.http://www.aspdotnet-suresh.com/2015/07/display-images-from-database-in-gridview-in-aspnet-using-handler-ashx-file-in-csharp-vbnet.html----------------------read and display images using handler
+118.http://www.codeproject.com/Articles/363006/Master-Pages-and-Themes----------------------------------------nested master page
+119.https://nimad.wordpress.com/2007/10/02/10-rules-for-effective-use-of-css-in-aspnet/--------Styling asp.net controls 
+120.https://dcrazed.com/free-responsive-html5-css3-templates/-------------------------------------cool web landing page
+121.http://www.vandelaydesign.com/web-apps/-------------------------------------------------------cool web application
+122.http://www.vandelaydesign.com/abstract-background-images/--------------------------------------web background images
+123.http://www.asp.net/web-forms/overview/older-versions-getting-started/master-pages/multiple-contentplaceholders-and-default-content-cs------------------content place holders
+124.https://www.freshdesignweb.com/jquery-css3-menu/-----------------------side menus
+125.http://csharp.net-informations.com/communications/files/download/csharp-smtp-mail_download.htm-----------------sending emails(C#)
+126.https://code.msdn.microsoft.com/TreeOrganization-structure-12f9fc5e--------------------------organisation tree
+127.http://csharp.net-informations.com/crystal-reports/csharp-crystal-reports-formula-field.htm -------C# with crystal reports
+128.http://1stwebdesigner.com/jquery-menu/----------------------------------------------easiest way to create accordion menu
+129.http://eboardsolutions.com/---------------------------------------------------------well designed mvc wep app site
+130.http://programcall.com/11/dotnet/how-to-read-data-from-xml-string--and-insert-to-table-sql-server.aspx---------------SQL Server convert XML to table rows
+131.http://www.obout.com/inc/download.aspx-------------------------------------------------asp.net controls for free
+132.http://www.codeproject.com/Articles/1153556/How-to-Save-Object-Graph-in-Master-detail-Relation-----------------------save many records to db at a go
+133.http://www.c-sharpcorner.com/UploadFile/0c1bb2/password-protected-pdf-file-using-Asp-Net-C-Sharp/-----------------simple grids
+134.https://www.codeproject.com/Articles/996001/A-Ready-To-Use-Software-Licensing-Solution-in-Csha--------------------A Ready To Use Software Licensing Solution in C#
+135.http://demos.telerik.com/aspnet-ajax/grid/examples/columns-rows/columns/column-types/defaultcs.aspx---------------telerik subcontrols
+136.https://www.codeproject.com/Articles/781213/Fundamentals-of-Image-Processing-behind-the-scenes--------------------image processing code
+137.http://www.dotnetawesome.com/2014/09/how-to-create-multilingual-website-in-aspnet-mvc4.html-----------------------multilingial website in asp.net mvc 5
+138.http://cpratt.co/how-to-change-the-default-asp-net-mvc-themet/-----------------------------------------------------MVC Razor deep look
+139.https://startbootstrap.com/----------------------------------Bootsrap themes
+140.http://seegatesite.com/create-simple-cool-sidebar-menu-with-bootstrap-3/---------------------------------------side menu in mvc
+141.https://www.asp.net/mvc/overview/older-versions-1/movie-database/create-a-movie-database-application-in-15-minutes-with-asp-net-mvc-cs-----------simple mvc project
+142.http://tickanswer.com/solved/8162350389/focus-on-required-field-in-bootstrap-tabs---------------------------------dealing with tabs in mvc
+143.http://www.hongkiat.com/blog/jquery-ui-datepicker/-----------------------------------jquery calender step by step
+144.http://stackoverflow.com/questions/1452681/jquery-datepicker-localization--------------date locolization/globalization
+145.https://www.youtube.com/watch?v=3CoKnEuyMek---------------------------frost glasslogin page
+146.https://www.codeproject.com/Articles/687061/Multiple-Models-in-a-View-in-ASP-NET-MVC-MVC------------------------passing data from controller to view in mvc
+147.https://books.google.cm/books?id=81MnCgAAQBAJ&pg=PA87&lpg=PA87&dq=asp.net+enable+control+after+cotroller+action+has+finished+exected&source=bl&ots=4A8wRWlz5U&sig=T_TKr-YKwMhpN_Hn-ff_KLij8X4&hl=en&sa=X&ved=0ahUKEwil77OXqYvSAhUDlxQKHdxXDVUQ6AEINzAF#v=onepage&q=asp.net%20enable%20control%20after%20cotroller%20action%20has%20finished%20exected&f=false----create RestApp from start to finish
+148.https://coolestguidesontheplanet.com/bootstrap/modal.php----------------------------------MVC Modals
+148.http://www.codeguru.com/columns/dotnet/writing-your-own-mvc-helpers.html----------------------------custom mvc helpers
+149.http://www.c-sharpcorner.com/UploadFile/4d9083/binding-dropdownlist-in-mvc-in-various-ways-in-mvc-with-data/-------------mvc bind to dropdownlist
+150.http://www.somethingtocode.com/post/how-to-create-custom-html-helper-in-asp-net-mvc-here-is-the-way-----------------mvc helper for image
+151.http://cssgradientbutton.com/#------------------------------------gradient buttons
+152.http://www.cssauthor.com/bootstrap-admin-templates/---------------free admin bootstrap layout templates
+153.https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/views/using-the-tagbuilder-class-to-build-html-helpers-cs-------------------mvc process images
+154.http://www.dotnetcurry.com/ShowArticle.aspx?ID=367------------------------------------------------------------------panel toggle
+155.https://gridmvc.codeplex.com/-----------------------------------------MVC Grid
+156.http://www.c-sharpcorner.com/UploadFile/4d9083/creating-simple-grid-in-mvc-using-grid-mvc/----------------------MVC Grid example
+157.https://www.codeproject.com/Articles/700865/ASP-NET-MVC-Show-Busy-Indicator-on-Form-Submit-usi-------------------Ajax Loading Panel
+158.https://www.mindstick.com/Articles/1117/crud-operation-using-modal-dialog-in-asp-dot-net-mvc------CRUD Operation Using Modal Dialog in ASP.NET MVC
+158.http://www.ajaxload.info/-----------------------------------------custom ajax loader
+159.https://weblog.west-wind.com/posts/2011/Mar/27/ASPNET-Routing-not-working-on-IIS-70----------------------------issue with hosting mvc5 app on iis
+160.https://www.simple-talk.com/sql/t-sql-programming/sql-server-functions-the-basics/-------------------------------sql server functions
+161.https://www.codeproject.com/Tips/826002/Bootstrap-Modal-Dialog-Loading-Content-from-MVC-Pa------------------------modals from partial views
+162.https://www.codeproject.com/Tips/752981/Import-Data-from-Excel-File-to-Database-Table-in-A------------------------upload excel file in mvc
+163.http://stackoverflow.com/questions/34531668/how-to-integrate-sap-crystal-reports-in-visual-studio-2015-enterprise-edition------------------crystal with mvc 
+164.http://www.c-sharpcorner.com/UploadFile/3d39b4/bootstrap-tree-view-in-Asp-Net-mvc/--------------------------------------creating tree view in mvc
+165.https://1stwebdesigner.com/css-effects/---------CSS On Steroids
+166.http://blog.icehrm.com/docs/leave-admin/------------------------------HR system
+167.http://www.jqueryscript.net/demo/Creating-Collapsible-Bootstrap-Panels-with-jQuery/----------------------------Collapsible Bootstrap Panels
+168.https://www.codeproject.com/Articles/1118363/GridView-with-Server-Side-Filtering-Sorting-and-Pa----------------Grids(Server Side with jquery)
+169.https://www.youtube.com/watch?v=cXVbsTT5gU8-----------------------------------------------------how to css checkbox
+170.http://www.wikihow.com/Write-a-Resignation-Letter-----------------------------------------------how to write resignation letter
+171.https://www.codeproject.com/Articles/1116318/Points-to-Secure-Your-ASP-NET-MVC-Applications-------------MVC security
+172.http://www.regular-expressions.info/----------------RegEx 101
+173.https://www.codeproject.com/Articles/363040/An-Introduction-to-Entity-Framework-for-Absolute-B---------------Understanding Entity Framework
+174.https://www.code-maze.com/http-series-part-1/--------------------------------------------------Understanding HTTP part 1
+175.https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/-----------------.NET Application Architecture.
+176.https://www.codeproject.com/Articles/1931/C-Compiler-----------------------------------------------simple C# Compiler
+177.https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang------------Single Page Application (SPA) for Enterprise App (Angular2 & WebApi) - Part 1 - Overview
+178.http://www.entityframeworktutorial.net/what-is-entityframework.aspx----------------------------------------Entity Framework
+179.https://letsencrypt.org/getting-started/-------------------------------------------------------------------Free SSL Certificate
+180.https://www.w3schools.com/howto/default.asp----------------------------------------------------------------Complete tutorials how to CSS  website
+181.https://www.codeproject.com/Articles/1029976/SQL-Server-Notifications-on-Record-Change-with-Sig------------SQL Server Notifications on Record Change with SignalR and SQLTableDependency
+182.https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating-------------------------Single Page Application(SPA) 2
+183.https://www.mathway.com-------------------------------------------------------------------------------------Solves algebra,calculus and chemistry problems.
+184.http://www.radio.garden-------------------------------------------------------------------------------------You can listen to radio station anywhere in the world.
+185.https://codemyui.com/ghost-button-equaliser-loading-animation/----------------------------------------------Ajax loading animations
+186.https://thetruesize.com-------------------------------------------------------------------------------------See real size of countries and states.
+187.https://www.codeproject.com/Articles/22073/Object-Oriented-JavaScript-Class-Library-in-C-NET----------------Encryption/Decryption with JS
+188.https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/tutorial-server-broadcast-with-signalr---------------------------SignalR stockTicker Sample
+189.https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency---------------------------sqlTableDependency example
+190.http://www.nullskull.com/articles/20030418.asp---------------------------------------------------------------Session Expiration management
+191.http://www.typescriptlang.org/play/---------------------------------------------------------------------------Typescript to javascript
+192.http://www.geeksengine.com/article/register-dll.html----------------------------------------------------------Register DLL
+193.https://www.theorytestadvice.co.uk/learn-to-drive/gears.php---------------------------------------------------How to drive a manual car
+194.http://www.primaryobjects.com/2008/01/29/preventing-session-timeouts-in-c-asp-net-web-applications/-----------Preventing Session Timeouts in C# ASP .NET Web Applications
+195.https://codepen.io/ibrahimjabbari/pen/ozinB-------------------------------------------------------------------Deviders(Horizontal)
+196.https://www.techworm.net/2016/10/find-remove-computer-virus-using-command-prompt.html-------------------------Find and delete viruses using CMD
+197.http://blog.drinkbird.com/aspnet-mvc-angular-razor-templates/-------------------------------------------------AngularJS and asp.net MVC Views
+198.http://johnatten.com/2013/12/22/asp-net-mvc-show-busy-indicator-on-form-submit-using-jquery-and-ajax/---------Submit Form while calling busy form (Any Browser)
+199.http://forms9patch.com/----------------------------------------------------------------------------------------Button shadow
+200.https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests?imm_mid=0fa416&cmp=em-prog-na-na-newsltr_20180106----------------------------How a RESTful API server reacts to requests
+201.https://codemyui.com/tag/slider/page/4/------------------------------------------------------------------------Code My UI Slide shows and couresels
+202.https://www.wix.com/website/templates/html/business------------------------------------------------------------Web Designs Impressions
+203.https://www.titanui.com/17719-glassy-transparent-login-register-forms-psd/-------------------------------------Cool Login Page 1
+204.https://w3layouts.com/unique-login-form-flat-responsive-widget-template-2/-------------------------------------Cool Login Page 2
+205.https://w3layouts.com/food-order-form-flat-responsive-widget-template/-----------------------------------------Cool Login Page 3
+206.https://w3layouts.com/fascinate-flat-responsive-widget-template/-----------------------------------------------Cool Login Page 4
+207.https://w3layouts.com/storm-construction-responsive-widget-template/-------------------------------------------Cool Login Page 5
+208.https://w3layouts.com/flat-open-account-form-responsive-widget-template/---------------------------------------Cool Login Page 6
+209.https://dribbble.com/shots/2878911-To-Do-App-Concept-Sign-Up---------------------------------------------------Cool Login Page 7
+210.https://dribbble.com/shots/2949368-Daily-UI-Challenge-001-Sign-Up----------------------------------------------Cool Login Page 8
+211.https://w3layouts.com/sleek-login-form-responsive-widget-template/---------------------------------------------Cool Login Page 9
+211.https://w3layouts.com/switch-login-form-flat-responsive-widget-template/---------------------------------------Cool Login Page 10
+212.https://www.cssscript.com/css-only-crossfading-background-slideshow/-------------------------------------------Add background images to the slideshow(crossfading).
+213.https://css-tricks.com/svg-path-syntax-illustrated-guide/------------------------------------------------------SVG Drawing
+214.http://www.0to255.com/facade-----------------------------------------------------------------------------------Helps you find lighter and darker tones of a basic color
+215.https://icomoon.io/app/#/select--------------------------------------------------------------------------------SVG Icons
+216.https://material.io/components/web/catalog/input-controls/text-field/icon/-------------------------------------Rules about controls
+217.https://dzone.com/articles/component-load-testing--------------------------------------------------------------System Design Principals
+218.https://www.sap.com/products/leonardo/blockchain.html-----------------------------------------------------------BlockChain simplified.
+219.https://www.infragistics.com/community/blogs/b/infragistics/posts/how-to-deploy-an-angular-application-to-github?utm_source=IG_Marketing&utm_medium=Email&utm_campaign=18-04-10%20Newsletter&utm_term=Non-Customer&utm_content=AngularGitHub&mkt_tok=eyJpIjoiT1dFM016STRNRFprWXpnMCIsInQiOiI4c1ZsQ21BalErMCtvZVhIMFdpOVk4TjFWc3dBZ1BPUjIwakNcL2lqakpnWWV1SHhzRzVUa2tkcXBYZXZmcEtTY2kyaHJ6R2dPRzZIdUdRcEhcL3VVSWtoZzNyaGs3Vkg3ZHJSWWZraUJkZlJiaWdCbXJaVHQ5bWl0R1VnSm1GUXM1In0%3D-----------------------------------------------------------How to deploy an Angular application to GitHub
+220.https://www.codeproject.com/Articles/1181555/SignalChat-WPF-SignalR-Chat-Application------------------------------Signal Chat
+221.https://www.tutorialspoint.com/svg-------------------------------------------------------------------------------SVG Tutorials
+222.https://www.tutorialspoint.com/index.htm-------------------------------------------------------------------------All tutorials Bash needs
+223.https://www.regextester.com/19-----------------------------------------------------------------------------------Regex Tutor
+224.https://technet.microsoft.com/en-us/library/jj835095(v=sql.110).aspx---------------------------------------------MS SQL Server Index Design
+225.https://www.c-sharpcorner.com/UploadFile/1e050f/html5-drag-and-drop/---------------------------------------------Drag and Drop Example
+226.https://www.sitepoint.com/accessible-drag-drop/------------------------------------------------------------------Drag and Drop Example2
+227.http://www.bestjquery.com/?9_I6fGfI------------------------------------------------------------------------------Tree Example
+228.https://stackoverflow.com/questions/44472851/prepare-json-data-for-bootstrap-treeview-in-cmvc4-------------------Get Tree data from C# code
+229.https://www.tutorialspoint.com/entity_framework/entity_table_valued_function.htm---------------------------------Entity Framework complete tutorial.
+230.https://inspirationalpixels.com/custom-popup-modal/--------------------------------------------------------------Pop Ups Explained.
+231.https://codepen.io/mike-schultz/pen/NgQvGO-----------------------------------------------------------------------Animated Border.
+232.https://jspanel.de/----------------------------------------------------------------------------------------------Dockable Window.
+233,https://www.c-sharpcorner.com/article/handleerror-action-filter-in-asp-net-mvc/----------------------------------MVC how to handle errors.
+234.https://stackoverflow.com/questions/10922225/multiple-tables-with-same-poco-class--------------------------------Saving data from same POCO class into diffarent tables MVC
+235.https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database-------------------------------.NET Code First
+236.https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/--------------------------------.NET Async
+237.https://stormpath.com/blog/routing-in-asp-net-core--------------------------------------------------------------.NET Routing
+238.https://www.c-sharpcorner.com/article/net-entity-framework-core-generic-async-operations-with-unit-of-work-generic-re/---.NET Core Repository And Unit Of Work
+239.https://www.codeproject.com/Articles/1168172/Get-Started-with-Unit-Testing-using-xUnit-and-Moq------------------Using Moq and Xunit Testing.
+240.https://freefrontend.com/css-input-text/------------------------------------------------------------------------Text Boxes Revamped.
+241.https://codepen.io/lewisvrobinson/pen/EyZwjR--------------------------------------------------------------------Text Input 1
+242.https://codepen.io/maheshambure21/pen/EozKKy--------------------------------------------------------------------Text Input 2
+243.https://codepen.io/MichaelArestad/pen/ohLIa---------------------------------------------------------------------Text Input 3(Awesome)
+244.https://freefrontend.com/css-input-text/------------------------------------------------------------------------Password Strength Validation
+245.https://www.codeproject.com/Articles/1264219/Creating-Web-API-in-ASP-NET-Core-2-0-------------------------------API with .Net Core 2.1 with Unit Tests
+246.https://www.youtube.com/watch?v=_UG6o4PkiQs---------------------------------------------------------------------Dealing with GIT HUB
+247.https://www.learnentityframeworkcore.com/-----------------------------------------------------------------------Learn Entity Framwork.
+248.https://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern-------------------EFCore Unit Of Work with Repository Pattern.
+249.https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling---------------------------------Horizontal Scaling of Web API.
+250.https://docs.microsoft.com/en-us/azure/architecture/microservices/----------------------------------------------MicroService Development
+251.https://developerhandbook.com/unit-testing/writing-unit-tests-with-nunit-and-moq/-------------------------------Unit Testing with Moq and NUnit(Inc.Exceptions)
+252.https://www.youtube.com/watch?v=DwbYxP-etMY---------------------------------------------------------------------Unit Test Video
+253.https://www.technical-recipes.com/2018/using-dependency-injection-in-web-api-applications-using-unity/----------IOC with Unity
+254.http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/--------------Web API Generating Tokens/Authorization
