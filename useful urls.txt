@@ -255,3 +255,4 @@
 252.https://www.youtube.com/watch?v=DwbYxP-etMY---------------------------------------------------------------------Unit Test Video
 253.https://www.technical-recipes.com/2018/using-dependency-injection-in-web-api-applications-using-unity/----------IOC with Unity
 254.http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/--------------Web API Generating Tokens/Authorization
+255.https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity-------ASP.NET Identity Management(Memberships)
